@@ -24,6 +24,25 @@ Note: Any changes to these endpoints' implementations must be documented.
 
 <hr />
 
+## &#x1F34F; Other Endpoints
+
+The following are the routes for the "other" endpoints.
+
+
+<hr />
+
+
+### &#x1F534; [GET] /
+
+
+<small>RESPONSE SCHEMA:</small>    application/json
+
+    [200]: {}
+
+<br />
+<hr />
+
+
 ## &#x1F34F; Authentication Endpoints
 
 The following are the routes for the authentication endpoints.
